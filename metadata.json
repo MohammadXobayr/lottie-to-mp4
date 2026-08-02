@@ -1,0 +1,6 @@
+{
+  "name": "JSON Animation to MP4 Converter",
+  "description": "Upload Lottie JSON animations, customize settings, convert to high-quality MP4 video, and download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
